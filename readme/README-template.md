@@ -38,8 +38,10 @@ your device's screen and make it as similar as possible.
 
 ### Links
 
-- ### if you want to challenge yourself this is the project link. good luck 👍: 
-[https://www.frontendmentor.io/challenges/fylo-dark-theme-landing-page-5ca5f2d21e82137ec91a50fd]
+ ### if you want to challenge yourself this is the project link. good luck 👍: 
+- Fylo Dark theme - [Frontend Mentor](https://www.frontendmentor.io/challenges/fylo-dark-theme-landing-page-5ca5f2d21e82137ec91a50fd)
+
+- Landing Page - [Github Pages](https://thiago-duarte22.github.io/Fylo-Dark-theme-landingpage/)
 
 ## My process
 
